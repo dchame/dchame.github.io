@@ -98,7 +98,8 @@ author:
   bio              : "Biologist, Arachnologist"
   location         : "Mexico"
   email            : "chamevazquez@gmail.com"
-  facebook         : "https://www.facebook.com/david.chamevazquez"
+  facebook         : "david.chamevazquez"
+  twitter          : "DavidCham18"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
