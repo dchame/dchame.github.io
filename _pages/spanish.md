@@ -6,8 +6,6 @@ header:
 author_profile: true
 ---
 
-## About me
----
 ### Área de interés
 Estoy interesado en conocer la diversidad de las arañas en ambientes naturales y en agroecosistemas. 
 En estos momentos trabajo en la taxonomía del género *Phonotimpus* Gertsch & Davis, 1940 (Phrurolithidae).
