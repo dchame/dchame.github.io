@@ -6,7 +6,7 @@ header:
 author_profile: true
 ---
 
-##About me
+## About me
 
 ### Research
 I have been sorting spiders over a decade collected from tropical environments and agroecosystems of Mexico.
