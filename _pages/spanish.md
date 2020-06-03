@@ -9,8 +9,8 @@ author_profile: true
 ## About me
 ---
 ### Área de interés
-I have been sorting spiders over a decade collected from tropical environments and agroecosystems of Mexico.
-Currently, I'm focused in the taxonomy of the genus *Phonotimpus* Gertsch & Davis, 1940 (Phrurolithidae).
+Estoy interesado en conocer la diversidad de las arañas en ambientes naturales y en agroecosistemas. 
+En estos momentos trabajo en la taxonomía del género *Phonotimpus* Gertsch & Davis, 1940 (Phrurolithidae).
 
 ### Producción científica
 <a href="https://scholar.google.com/citations?hl=es&user=-yv0vf0AAAAJ" class="btn btn--info">Google Scholar</a>
