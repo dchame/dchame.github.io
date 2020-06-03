@@ -4,7 +4,7 @@ main:
     url: https://dchame.github.io/
     - title: "Español"
     url: https://dchame.github.io/_pages/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+   - title: "Sample Collections"
+    url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
