@@ -1,9 +1,7 @@
 # main links
 main:
-    title: "English"
-    url: https://dchame.github.io/
-    title: "Espanol"
-    url: https://dchame.github.io/_pages/
+- title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
     # title: "Sample Collections"
     # url: /collection-archive/
   # - title: "Sitemap"
