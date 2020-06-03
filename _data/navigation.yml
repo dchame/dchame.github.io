@@ -1,10 +1,10 @@
 # main links
 main:
-    - title: "English"
+    title: "English"
     url: https://dchame.github.io/
-    - title: "Espanol"
+    title: "Espanol"
     url: https://dchame.github.io/_pages/
-   - title: "Sample Collections"
-    url: /collection-archive/
+    # title: "Sample Collections"
+    # url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
