@@ -13,10 +13,11 @@ I have been sorting spiders over a decade collected from tropical environments a
 Currently, I'm focused in the taxonomy of the genus *Phonotimpus* Gertsch & Davis, 1940 (Phrurolithidae).
 
 ### Publications
+<a href="https://scholar.google.com/citations?hl=es&user=-yv0vf0AAAAJ" class="btn btn--primary">Google Scholar</a>
 #### Journal articles
 1.	Ibarra–Núñez, G.; Maya–Morales, J. & D. Chamé–Vázquez. 2011. Las arañas del bosque mesófilo de montaña de la Reserva de la Biosfera Volcán Tacaná, Chiapas, México. Revista Mexicana de Biodiversidad. 82: 1183–1193.
-2.	Chamé–Vázquez, D., Ibarra–Núñez, G. & M.L. Jiménez. 2018. Redescription of *Phonotimpus separatus* Gertsch & Davis, 1940 (Araneae: Phrurolithidae) and description of two new species of *Phonotimpus* from Mexico. Zootaxa 4407(2): 213–228. doi:10.11646/zootaxa.4407.2.3
-3.	Chamé–Vázquez, D. & G. Ibarra–Núñez. 2019. A new species of *Phonotimpus* Gertsch & Davis, 1940 (Araneae: Phrurolithidae) from Mexico. Zootaxa 4545(1): 146–150. doi:10.11646/zootaxa.4545.1.10
+2.	Chamé–Vázquez, D., Ibarra–Núñez, G. & M.L. Jiménez. 2018. Redescription of *Phonotimpus separatus* Gertsch & Davis, 1940 (Araneae: Phrurolithidae) and description of two new species of *Phonotimpus* from Mexico. Zootaxa 4407(2): 213–228. 
+3.	Chamé–Vázquez, D. & G. Ibarra–Núñez. 2019. A new species of *Phonotimpus* Gertsch & Davis, 1940 (Araneae: Phrurolithidae) from Mexico. Zootaxa 4545(1): 146–150.
 
 #### Chapter books
 1.	Lucio–Palacio, C.R. & D. Chamé–Vázquez. 2013. Opiliones: arañas que no son arañas. Pp. 197–205. In. Comisión Nacional para el Conocimiento y Uso de la Biodiversidad (CONABIO). La biodiversidad en Chiapas: Estudio de Estado. CONABIO/Gobierno de Chiapas, México.
