@@ -1,11 +1,9 @@
 # main links
 main:
-  - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Publications"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+    - title: "English"
+    url: https://dchame.github.io/
+    - title: "Español"
+    url: https://dchame.github.io/_pages/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
