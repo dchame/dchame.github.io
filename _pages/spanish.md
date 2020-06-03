@@ -5,10 +5,9 @@ header:
   caption: "Photo credit: [**Mariel Suárez**]"
 author_profile: true
 ---
-  
-  
+***
 ### Área de interés
-Estoy interesado en conocer la diversidad de las arañas en ambientes naturales y en agroecosistemas en México. Durantes mi formación académica, use a las arañas como modelos en estudios ecológicos, taxonómicos y etológicos.
+Estoy interesado en conocer la diversidad de las arañas en ambientes naturales y en agroecosistemas en México. Durante mi formación académica, usé a las arañas como modelos en estudios ecológicos, taxonómicos y etológicos.
 En estos momentos estoy colaborando en la revisión taxonómica del género *Phonotimpus* Gertsch & Davis, 1940 (Phrurolithidae).
 
 ### Producción científica
