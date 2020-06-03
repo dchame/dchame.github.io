@@ -14,6 +14,7 @@ Currently, I'm focused in the taxonomy of the genus *Phonotimpus* Gertsch & Davi
 
 ### Publications
 <a href="https://scholar.google.com/citations?hl=es&user=-yv0vf0AAAAJ" class="btn btn--primary">Google Scholar</a>
+<a href="https://www.researchgate.net/profile/David_Chame-Vazquez" class="btn btn--primary">ResearchGate</a>
 #### Journal articles
 1.	Ibarra–Núñez, G.; Maya–Morales, J. & D. Chamé–Vázquez. 2011. Las arañas del bosque mesófilo de montaña de la Reserva de la Biosfera Volcán Tacaná, Chiapas, México. Revista Mexicana de Biodiversidad. 82: 1183–1193.
 2.	Chamé–Vázquez, D., Ibarra–Núñez, G. & M.L. Jiménez. 2018. Redescription of *Phonotimpus separatus* Gertsch & Davis, 1940 (Araneae: Phrurolithidae) and description of two new species of *Phonotimpus* from Mexico. Zootaxa 4407(2): 213–228. 
