@@ -1,4 +1,6 @@
 # main links
 main:
-   - title: "Sitemap"
+   - title: "English"
      url: /sitemap/
+   - title: "Español"
+     url: /sitem/
