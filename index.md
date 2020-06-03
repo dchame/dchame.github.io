@@ -5,7 +5,8 @@ header:
   caption: "Photo credit: [**Mariel Suárez**]"
 author_profile: true
 ---
-I am a budding seagrass researcher, currently studying for a PhD at James 
-Cook University in Cairns, looking at the role of herbivory in structuring seagrass meadows around 
-the Great Barrier Reef.
-Hola
+### Research
+I have been sorting spiders over a decade collected from tropical environments and agroecosystems of Mexico.
+Currently, I'm focused in the taxonomy of the genus *Phonotimpus* Gertsch & Davis, 1940 (Phrurolithidae).
+
+### Publications
