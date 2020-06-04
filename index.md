@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 header:
   image: /assets/images/background_gmsuarez.jpg
   caption: "Photo credit: [**Mariel Suárez**]"
