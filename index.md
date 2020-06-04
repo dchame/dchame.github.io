@@ -5,12 +5,10 @@ header:
   caption: "Photo credit: [**Mariel Suárez**]"
 author_profile: true
 ---
+****
 
-## About me
----
 ### Research
-I have been sorting spiders over a decade collected from tropical environments and agroecosystems of Mexico.
-Currently, I'm focused in the taxonomy of the genus *Phonotimpus* Gertsch & Davis, 1940 (Phrurolithidae).
+I am interested in spider systematics, biology and ecology. Currently, I'm collaborating in the revision of the genus *Phonotimpus* Gertsch & Davis, 1940 (Phrurolithidae).
 
 ### Publications
 <a href="https://scholar.google.com/citations?hl=es&user=-yv0vf0AAAAJ" class="btn btn--info">Google Scholar</a>
