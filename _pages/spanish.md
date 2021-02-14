@@ -9,7 +9,7 @@ author_profile: true
 ***
 ### Área de interés
 Estoy interesado en conocer la diversidad de las arañas en ambientes naturales y en agroecosistemas en México. Durante mi formación académica, usé a las arañas como modelos en estudios ecológicos, taxonómicos y etológicos.
-En estos momentos estoy colaborando en la revisión taxonómica del género *Phonotimpus* Gertsch & Davis, 1940 (Phrurolithidae).
+En estos momentos estoy colaborando en la revisión taxonómica del género *Plectreurys* (Plectreuridae).
 
 ### Producción científica
 <a href="https://scholar.google.com/citations?hl=es&user=-yv0vf0AAAAJ" class="btn btn--info">Google Scholar</a>
@@ -23,7 +23,7 @@ En estos momentos estoy colaborando en la revisión taxonómica del género *Pho
 6.	**Chamé-Vázquez, D.**, Campuzano, E.F. & G. Ibarra-Núñez. in press. A new species of the genus *Phonotimpus* Gertsch & Davis (Araneae: Phrurolithidae) from Mexico and the transfer of *Gosiphrurus schulzefenai* Chamberlin & Ivie to Phonotimpus. Zootaxa.
 
 #### Capítulos en libros publicados
-1. Lucio–Palacio, C.R. y D. Chamé–Vázquez. 2013. Opiliones: arañas que no son arañas. Pp. 197–205. In. Comisión Nacional para el Conocimiento y Uso de la Biodiversidad (CONABIO). La biodiversidad en Chiapas: Estudio de Estado. CONABIO/Gobierno de Chiapas, México.
+1. Lucio–Palacio, C.R. y **D. Chamé–Vázquez**. 2013. Opiliones: arañas que no son arañas. Pp. 197–205. In. Comisión Nacional para el Conocimiento y Uso de la Biodiversidad (CONABIO). La biodiversidad en Chiapas: Estudio de Estado. CONABIO/Gobierno de Chiapas, México.
 
 #### Notas científicas
 1.	**Chamé–Vázquez, D.** & G. Ibarra–Núñez. 2004. Primeros registros de *Allocyclosa bifurca* (McCook) y *Ocrepeira redempta* (Gertsch & Mulaik) (Araneae: Araneidae) para Chiapas, México. Dugesiana. 11(2): 23–24.
