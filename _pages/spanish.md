@@ -26,7 +26,9 @@ En estos momentos estoy colaborando en la revisión taxonómica del género *Pho
 1. Lucio–Palacio, C.R. y D. Chamé–Vázquez. 2013. Opiliones: arañas que no son arañas. Pp. 197–205. In. Comisión Nacional para el Conocimiento y Uso de la Biodiversidad (CONABIO). La biodiversidad en Chiapas: Estudio de Estado. CONABIO/Gobierno de Chiapas, México.
 
 #### Notas científicas
-1. Chamé–Vázquez, D. y G. Ibarra–Núñez. 2004. Primeros registros de Allocyclosa bifurca (McCook) y Ocrepeira redempta (Gertsch & Mulaik) (Araneae: Araneidae) para Chiapas, México. Dugesiana. 11(2): 23–24.
-2. Chamé–Vázquez, D. y S. Moreno–Mendoza. 2006. Anomalía ocular en Argiope trifasciata (Forskål, 1775) (Araneae: Araneidae). Dugesiana 13(1): 23–24.
-3. Zárate–Gálvez, K. y D. Chamé–Vázquez. 2007. Primer registro de Mastigoproctus scabrosus Pocock 1902 (Arachnida: Thelyphonida) para Chiapas, México. Boletín Sociedad Entomológica Aragonesa 41: 393–395.
-4. Martínez–Sánchez, I. y D. Chamé–Vázquez. 2019. Primer registro de Ariamnes mexicanus (Exline y Levi, 1962) (Araneae: Theridiidae) para Hidalgo, México. Dugesiana 26(1): 26.
+1.	**Chamé–Vázquez, D.** & G. Ibarra–Núñez. 2004. Primeros registros de *Allocyclosa bifurca* (McCook) y *Ocrepeira redempta* (Gertsch & Mulaik) (Araneae: Araneidae) para Chiapas, México. Dugesiana. 11(2): 23–24.
+2.	**Chamé–Vázquez, D.** & S. Moreno–Mendoza. 2006. Anomalía ocular en *Argiope trifasciata* (Forskål, 1775) (Araneae: Araneidae). Dugesiana 13(1): 23–24.
+3.	Zárate–Gálvez, K. & **D. Chamé–Vázquez**. 2007. Primer registro de *Mastigoproctus scabrosus* Pocock 1902 (Arachnida: Thelyphonida) para Chiapas, México. Boletín Sociedad Entomológica Aragonesa 41: 393–395.
+4.	Martínez–Sánchez, I. & **D. Chamé–Vázquez**. 2019. Primer registro de *Ariamnes mexicanus* (Exline y Levi, 1962) (Araneae: Theridiidae) para Hidalgo, México. Dugesiana 26(1): 26.
+5.	**Chamé–Vázquez, D.** & M.-L. Jiménez. 2020. Eye malformation in the spider *Phonotimpus pennimani* (Araneae: Phrurolithidae). Revista Ibérica de Aracnología 37: 257–258.
+6.	**Chamé–Vázquez, D.**, Jiménez, M.-L. & U.S. López-Gálvez. 2020. Nuevos registros de arañas (Arachnida: Araneae) en el centro y sur de México. Revista de la Sociedad Entomológica Argentina 79(4): 59–66. doi.:10.25085/rsea.790411
