@@ -20,7 +20,7 @@ En estos momentos estoy colaborando en la revisión taxonómica del género *Ple
 3.	**Chamé–Vázquez, D.** & G. Ibarra–Núñez. 2019. A new species of *Phonotimpus* Gertsch & Davis, 1940 (Araneae: Phrurolithidae) from Mexico. Zootaxa 4545(1): 146–150. doi:10.11646/zootaxa.4545.1.10
 4.	**Chamé–Vázquez, D.**, Cutler, B. & G. Ibarra–Núñez. 2020. Further taxonomic notes on the jumping spider *Synemosyna maddisoni* Cutler, 1985 (Araneae: Salticidae). Arthropoda Selecta 29(4): 475–480. doi:10.15298/arthsel.29.4.10
 5.	Ibarra–Núñez, G., **Chamé–Vázquez, D.** & J. Maya-Morales. 2021. A new spider genus (Araneae: Linyphiidae: Erigoninae) from a tropical montane cloud forest of Mexico. European Journal of Taxonomy 731: 97–116. doi:10.5852/ejt.2021.731.1207
-6.	**Chamé-Vázquez, D.**, Campuzano, E.F. & G. Ibarra-Núñez. in press. A new species of the genus *Phonotimpus* Gertsch & Davis (Araneae: Phrurolithidae) from Mexico and the transfer of *Gosiphrurus schulzefenai* Chamberlin & Ivie to Phonotimpus. Zootaxa.
+6.	**Chamé-Vázquez, D.**, Campuzano, E.F. & G. Ibarra-Núñez. 2021. A new species of the genus *Phonotimpus* Gertsch & Davis (Araneae: Phrurolithidae) from Mexico and the transfer of *Gosiphrurus schulzefenai* Chamberlin & Ivie to Phonotimpus. Zootaxa 4938 (5): 571–580.  doi:10.11646/zootaxa.4938.5.4
 
 #### Capítulos en libros publicados
 1. Lucio–Palacio, C.R. y **D. Chamé–Vázquez**. 2013. Opiliones: arañas que no son arañas. Pp. 197–205. In. Comisión Nacional para el Conocimiento y Uso de la Biodiversidad (CONABIO). La biodiversidad en Chiapas: Estudio de Estado. CONABIO/Gobierno de Chiapas, México.
