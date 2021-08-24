@@ -21,9 +21,10 @@ I am interested in spider systematics, biology and ecology. Currently, I'm colla
 4.	**Chamé–Vázquez, D.**, Cutler, B. & G. Ibarra–Núñez. 2020. Further taxonomic notes on the jumping spider *Synemosyna maddisoni* Cutler, 1985 (Araneae: Salticidae). Arthropoda Selecta 29(4): 475–480. doi:10.15298/arthsel.29.4.10
 5.	Ibarra–Núñez, G., **Chamé–Vázquez, D.** & J. Maya-Morales. 2021. A new spider genus (Araneae: Linyphiidae: Erigoninae) from a tropical montane cloud forest of Mexico. European Journal of Taxonomy 731: 97–116. doi:10.5852/ejt.2021.731.1207
 6.	**Chamé-Vázquez, D.**, Campuzano, E.F. & G. Ibarra-Núñez. 2021. A new species of the genus *Phonotimpus* Gertsch & Davis (Araneae: Phrurolithidae) from Mexico and the transfer of *Gosiphrurus schulzefenai* Chamberlin & Ivie to *Phonotimpus*. Zootaxa 4938 (5): 571–580.  doi:10.11646/zootaxa.4938.5.4
+7.	**Chamé-Vazquez, D.**, Jiménez, M.-L & C. Palacios-Cardiel. In press. Redescription of Selenops minutus F. O. Pickard-Cambridge (Araneae: Selenopidae). Arthropoda Selecta.
 
 
-#### Chapter books
+#### Book chapter
 1.	Lucio–Palacio, C.R. & **D. Chamé–Vázquez**. 2013. Opiliones: arañas que no son arañas. Pp. 197–205. In. Comisión Nacional para el Conocimiento y Uso de la Biodiversidad (CONABIO). La biodiversidad en Chiapas: Estudio de Estado. CONABIO/Gobierno de Chiapas, México.
 
 #### Short communications
@@ -33,6 +34,9 @@ I am interested in spider systematics, biology and ecology. Currently, I'm colla
 4.	Martínez–Sánchez, I. & **D. Chamé–Vázquez**. 2019. Primer registro de *Ariamnes mexicanus* (Exline y Levi, 1962) (Araneae: Theridiidae) para Hidalgo, México. Dugesiana 26(1): 26.
 5.	**Chamé–Vázquez, D.** & M.-L. Jiménez. 2020. Eye malformation in the spider *Phonotimpus pennimani* (Araneae: Phrurolithidae). Revista Ibérica de Aracnología 37: 257–258.
 6.	**Chamé–Vázquez, D.**, Jiménez, M.-L. & U.S. López-Gálvez. 2020. Nuevos registros de arañas (Arachnida: Araneae) en el centro y sur de México. Revista de la Sociedad Entomológica Argentina 79(4): 59–66. doi.:10.25085/rsea.790411
+7.	Cupul-Magaña, F.G., Serrano-Medina, J., Escobedo-Galván, A.H. & **D. Chamé-Vázquez**. 2021. *Scincella assata* (Red Forest Skink) diet. Herpetological Review 52(2): 413.
+8.	Cubas, A., Lara-Cabello, V.C., Desales-Lara, M.A. & **D. Chamé-Vázquez**. In press. Elusive introduced and synanthropic spiders (Araneae: Cithaeronidae, Gnaphosidae): new records from Mexico, Honduras, and Brazil. Pan-Pacific Entomologist.
+
 
 
 
