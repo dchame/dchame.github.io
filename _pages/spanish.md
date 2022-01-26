@@ -35,5 +35,5 @@ En estos momentos estoy colaborando en la revisión taxonómica del género *Ple
 6.	**Chamé–Vázquez, D.**, Jiménez, M.-L. & U.S. López-Gálvez. 2020. Nuevos registros de arañas (Arachnida: Araneae) en el centro y sur de México. Revista de la Sociedad Entomológica Argentina 79(4): 59–66. doi.:10.25085/rsea.790411
 7.	Cupul-Magaña, F.G., Serrano-Medina, J., Escobedo-Galván, A.H. & **D. Chamé-Vázquez**. 2021. *Scincella assata* (Red Forest Skink) diet. Herpetological Review 52(2): 413.
 8.	Gómez-Moreno K.G., **Chamé-Vázquez, D.** & M.-L. Jiménez. 2021. Primer registro de la araña escupidora *Scytodes lugubris* (Araneae: Scytodidae) para Sonora, México. Revista Ibérica de Aracnología 39: 131–132.
-9.	Cubas, A., Lara-Cabello, V.C., Desales-Lara, M.A. & **D. Chamé-Vázquez**. 2021. Elusive introduced and synanthropic spiders (Araneae: Cithaeronidae, Gnaphosidae): new records from Mexico, Honduras, and Brazil. Pan-Pacific Entomologist 97(4):261-265.
+9.	Cubas, A., Lara-Cabello, V.C., Desales-Lara, M.A. & **D. Chamé-Vázquez**. 2021. Elusive introduced and synanthropic spiders (Araneae: Cithaeronidae, Gnaphosidae): new records from Mexico, Honduras, and Brazil. Pan-Pacific Entomologist 97(4): 261–265. doi:10.3956/2021-97.4.261
 
