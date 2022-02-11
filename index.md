@@ -21,7 +21,7 @@ I am interested in spider systematics, biology and ecology. Currently, I'm colla
 4.	**Chamé–Vázquez, D.**, Cutler, B. & G. Ibarra–Núñez. 2020. Further taxonomic notes on the jumping spider *Synemosyna maddisoni* Cutler, 1985 (Araneae: Salticidae). Arthropoda Selecta 29(4): 475–480. doi:10.15298/arthsel.29.4.10
 5.	Ibarra–Núñez, G., **Chamé–Vázquez, D.** & J. Maya-Morales. 2021. A new spider genus (Araneae: Linyphiidae: Erigoninae) from a tropical montane cloud forest of Mexico. European Journal of Taxonomy 731: 97–116. doi:10.5852/ejt.2021.731.1207
 6.	**Chamé-Vázquez, D.**, Campuzano, E.F. & G. Ibarra-Núñez. 2021. A new species of the genus *Phonotimpus* Gertsch & Davis (Araneae: Phrurolithidae) from Mexico and the transfer of *Gosiphrurus schulzefenai* Chamberlin & Ivie to *Phonotimpus*. Zootaxa 4938 (5): 571–580.  doi:10.11646/zootaxa.4938.5.4
-7.	**Chame-Vázquez, D.** & M.-L. Jiménez. *In press.*  A new spider of the genus Scotinella Banks, 1911 (Araneae: Phrurolithidae) from Mexico and new combinations in Phrurolithidae. Zootaxa.
+7.	**Chame-Vázquez, D.** & M.-L. Jiménez. 2022.  A new spider of the genus *Scotinella* Banks, 1911 (Araneae: Phrurolithidae) from Mexico and new combinations in Phrurolithidae. Zootaxa 5099 (2): 286–292. doi:10.11646/zootaxa.5099.2.8
 8.	**Chamé-Vazquez, D.**, Jiménez, M.-L & C. Palacios-Cardiel. *In press.* Redescription of *Selenops minutus* F. O. Pickard-Cambridge (Araneae: Selenopidae). Arthropoda Selecta.
 
 
