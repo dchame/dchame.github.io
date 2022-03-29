@@ -22,7 +22,7 @@ I am interested in spider systematics, biology and ecology. Currently, I'm colla
 5.	Ibarra–Núñez, G., **Chamé–Vázquez, D.** & J. Maya-Morales. 2021. A new spider genus (Araneae: Linyphiidae: Erigoninae) from a tropical montane cloud forest of Mexico. European Journal of Taxonomy 731: 97–116. doi:10.5852/ejt.2021.731.1207
 6.	**Chamé-Vázquez, D.**, Campuzano, E.F. & G. Ibarra-Núñez. 2021. A new species of the genus *Phonotimpus* Gertsch & Davis (Araneae: Phrurolithidae) from Mexico and the transfer of *Gosiphrurus schulzefenai* Chamberlin & Ivie to *Phonotimpus*. Zootaxa 4938 (5): 571–580.  doi:10.11646/zootaxa.4938.5.4
 7.	**Chame-Vázquez, D.** & M.-L. Jiménez. 2022.  A new spider of the genus *Scotinella* Banks, 1911 (Araneae: Phrurolithidae) from Mexico and new combinations in Phrurolithidae. Zootaxa 5099 (2): 286–292. doi:10.11646/zootaxa.5099.2.8
-8.	**Chamé-Vazquez, D.**, Jiménez, M.-L & C. Palacios-Cardiel. *In press.* Redescription of *Selenops minutus* F. O. Pickard-Cambridge (Araneae: Selenopidae). Arthropoda Selecta.
+8.	**Chamé-Vazquez, D.**, Jiménez, M.-L & C. Palacios-Cardiel. 2022. Redescription of *Selenops minutus* F. O. Pickard-Cambridge (Araneae: Selenopidae). Arthropoda Selecta 31 (1): 90–94. doi:/10.15298/arthsel.31.1.10
 
 
 #### Book chapter
@@ -37,7 +37,8 @@ I am interested in spider systematics, biology and ecology. Currently, I'm colla
 6.	**Chamé–Vázquez, D.**, Jiménez, M.-L. & U.S. López-Gálvez. 2020. Nuevos registros de arañas (Arachnida: Araneae) en el centro y sur de México. Revista de la Sociedad Entomológica Argentina 79(4): 59–66. doi.:10.25085/rsea.790411
 7.	Cupul-Magaña, F.G., Serrano-Medina, J., Escobedo-Galván, A.H. & **D. Chamé-Vázquez**. 2021. *Scincella assata* (Red Forest Skink) diet. Herpetological Review 52(2): 413.
 8.	Gómez-Moreno K.G., **Chamé-Vázquez, D.** & M.-L. Jiménez. 2021. Primer registro de la araña escupidora *Scytodes lugubris* (Araneae: Scytodidae) para Sonora, México. Revista Ibérica de Aracnología 39: 131–132.
-9.	Cubas, A., Lara-Cabello, V.C., Desales-Lara, M.A. & **D. Chamé-Vázquez**. 2021. Elusive introduced and synanthropic spiders (Araneae: Cithaeronidae, Gnaphosidae): new records from Mexico, Honduras, and Brazil. Pan-Pacific Entomologist 97(4): 261–265. doi:10.3956/2021-97.4.261
+9.	Cupul-Magaña, F.G., **Chamé-Vázquez, D.** & F. Mc. Cann. 2021. Recolecta de seda de la telaraña de *Mallos* sp. por el Colibrí Pico Ancho (*Cynanthus latirostris*). Zeledonia 25 (2): 22–25.
+10.	Cubas, A., Lara-Cabello, V.C., Desales-Lara, M.A. & **D. Chamé-Vázquez**. 2021. Elusive introduced and synanthropic spiders (Araneae: Cithaeronidae, Gnaphosidae): new records from Mexico, Honduras, and Brazil. Pan-Pacific Entomologist 97(4): 261–265. doi:10.3956/2021-97.4.261
 
 
 
