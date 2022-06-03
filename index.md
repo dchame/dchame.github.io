@@ -15,7 +15,7 @@ I am interested in spider systematics, biology and ecology. Currently, I'm colla
 <a href="https://scholar.google.com/citations?hl=es&user=-yv0vf0AAAAJ" class="btn btn--info">Google Scholar</a>
 <a href="https://www.researchgate.net/profile/David_Chame-Vazquez/publications" class="btn btn--success">ResearchGate</a>
 #### Journal articles
-1.	Ibarra–Núñez, G.; Maya–Morales, J. & **D. Chamé–Vázquez**. 2011. Las arañas del bosque mesófilo de montaña de la Reserva de la Biosfera Volcán Tacaná, Chiapas, México. Revista Mexicana de Biodiversidad. 82: 1183–1193. (https://www.doi.org/10.22201/ib.20078706e.2011.4.736)
+1.	Ibarra–Núñez, G.; Maya–Morales, J. & **D. Chamé–Vázquez**. 2011. Las arañas del bosque mesófilo de montaña de la Reserva de la Biosfera Volcán Tacaná, Chiapas, México. Revista Mexicana de Biodiversidad. 82: 1183–1193. [DOI](https://www.doi.org/10.22201/ib.20078706e.2011.4.736)
 2.	**Chamé–Vázquez, D.**, Ibarra–Núñez, G. & M.L. Jiménez. 2018. Redescription of *Phonotimpus separatus* Gertsch & Davis, 1940 (Araneae: Phrurolithidae) and description of two new species of *Phonotimpus* from Mexico. Zootaxa 4407(2): 213–228. (https://www.doi.org/10.11646/zootaxa.4407.2.3)
 3.	**Chamé–Vázquez, D.** & G. Ibarra–Núñez. 2019. A new species of *Phonotimpus* Gertsch & Davis, 1940 (Araneae: Phrurolithidae) from Mexico. Zootaxa 4545(1): 146–150. (https://www.doi.org/10.11646/zootaxa.4545.1.10)
 4.	**Chamé–Vázquez, D.**, Cutler, B. & G. Ibarra–Núñez. 2020. Further taxonomic notes on the jumping spider *Synemosyna maddisoni* Cutler, 1985 (Araneae: Salticidae). Arthropoda Selecta 29(4): 475–480. (https://www.doi.org/10.15298/arthsel.29.4.10)
