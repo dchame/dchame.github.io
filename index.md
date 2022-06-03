@@ -23,7 +23,7 @@ I am interested in spider systematics, biology and ecology. Currently, I'm colla
 6.	**Chamé-Vázquez, D.**, Campuzano, E.F. & G. Ibarra-Núñez. 2021. A new species of the genus *Phonotimpus* Gertsch & Davis (Araneae: Phrurolithidae) from Mexico and the transfer of *Gosiphrurus schulzefenai* Chamberlin & Ivie to *Phonotimpus*. Zootaxa 4938 (5): 571–580.  (https://www.doi.org/10.11646/zootaxa.4938.5.4)
 7.	**Chame-Vázquez, D.** & M.-L. Jiménez. 2022.  A new spider of the genus *Scotinella* Banks, 1911 (Araneae: Phrurolithidae) from Mexico and new combinations in Phrurolithidae. Zootaxa 5099 (2): 286–292. (https://www.doi.org/10.11646/zootaxa.5099.2.8)
 8.	**Chamé-Vazquez, D.**, Jiménez, M.-L & C. Palacios-Cardiel. 2022. Redescription of *Selenops minutus* F. O. Pickard-Cambridge (Araneae: Selenopidae). Arthropoda Selecta 31 (1): 90–94. (https://www.doi.org/10.15298/arthsel.31.1.10)
-9.	Jiménez, M.-L, Palacios-Cardiel, C. & **D. Chamé-Vázquez**. In press. The spider genus Diguetia Simon, 1895 (Araneae: Diguetidae) in North America: a new species, redescriptions, and comments on the distribution of the genus. Zootaxa.
+9.	Jiménez, M.-L, Palacios-Cardiel, C. & **D. Chamé-Vázquez**. In press. The spider genus *Diguetia* Simon, 1895 (Araneae: Diguetidae) in North America: a new species, redescriptions, and comments on the distribution of the genus. Zootaxa.
 
 
 #### Book chapter
