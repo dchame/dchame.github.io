@@ -25,8 +25,7 @@ En estos momentos estoy colaborando en la revisión taxonómica del género *Ple
 8.	**Chamé-Vazquez, D.**, Jiménez, M.-L & C. Palacios-Cardiel. 2022. Redescription of *Selenops minutus* F. O. Pickard-Cambridge (Araneae: Selenopidae). Arthropoda Selecta 31 (1): 90–94. [DOI](https://www.doi.org/10.15298/arthsel.31.1.10)
 9. Jiménez, M.-L., **Chamé-Vázquez, D.** & Palacios-Cardiel. 2022. New records of spiders (Arachnida: Araneae) from the Madrean Archipelago of Sonora, Mexico. The Pan-Pacific Entomologist 98(3): 196–204. [DOI](https://doi.org/10.3956/2022-98.3.196)
 10.	Jiménez, M.-L, Palacios-Cardiel, C. & **D. Chamé-Vázquez**. In press. The spider genus *Diguetia* Simon, 1895 (Araneae: Diguetidae) in North America: a new species, redescriptions, and comments on the distribution of the genus. Zootaxa.
-11.	Cubas-Rodriguez, A.M., Cupul-Magaña, F.G., Peraza, R.A. & **D. Chamé-Vázquez**. EN PRENSA. New locality record of the American Crocodile Crocodylus acutus (Cuvier, 1807) from Honduras (Crocodylia: Crocodylidae). Herpetology Notes.
-22.	Hernández-Carreta, A.I, Diego-García, E., Ibarra-Núñez, G., Montaño-Moreno, H., **Chamé-Vázquez, D.** & E. Zarza. EN PRENSA. Phylogeography of the genus Phonotimpus Gertsch & Davis, 1940 (Araneae: Phrurolithidae). PeerJ.
+11.	Hernández-Carreta, A.I, Diego-García, E., Ibarra-Núñez, G., Montaño-Moreno, H., **Chamé-Vázquez, D.** & E. Zarza. EN PRENSA. Phylogeography of the genus *Phonotimpus* Gertsch & Davis, 1940 (Araneae: Phrurolithidae). PeerJ.
 
 
 #### Capítulos en libros publicados
@@ -44,4 +43,5 @@ En estos momentos estoy colaborando en la revisión taxonómica del género *Ple
 8.	Gómez-Moreno K.G., **Chamé-Vázquez, D.** & M.-L. Jiménez. 2021. Primer registro de la araña escupidora *Scytodes lugubris* (Araneae: Scytodidae) para Sonora, México. Revista Ibérica de Aracnología 39: 131–132.
 9.	Cupul-Magaña, F.G., **Chamé-Vázquez, D.** & F. Mc. Cann. 2021. Recolecta de seda de la telaraña de *Mallos* sp. por el Colibrí Pico Ancho (*Cynanthus latirostris*). Zeledonia 25 (2): 22–25.
 10.	Cubas, A., Lara-Cabello, V.C., Desales-Lara, M.A. & **D. Chamé-Vázquez**. 2021. Elusive introduced and synanthropic spiders (Araneae: Cithaeronidae, Gnaphosidae): new records from Mexico, Honduras, and Brazil. Pan-Pacific Entomologist 97(4): 261–265. [DOI](https://www.doi.org/10.3956/2021-97.4.261)
+11.	Cubas-Rodriguez, A.M., Cupul-Magaña, F.G., Peraza, R.A. & **D. Chamé-Vázquez**. EN PRENSA. New locality record of the American Crocodile Crocodylus acutus (Cuvier, 1807) from Honduras (Crocodylia: Crocodylidae). Herpetology Notes.
 
