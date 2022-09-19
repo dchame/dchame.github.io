@@ -25,6 +25,9 @@ En estos momentos estoy colaborando en la revisión taxonómica del género *Ple
 8.	**Chamé-Vazquez, D.**, Jiménez, M.-L & C. Palacios-Cardiel. 2022. Redescription of *Selenops minutus* F. O. Pickard-Cambridge (Araneae: Selenopidae). Arthropoda Selecta 31 (1): 90–94. [DOI](https://www.doi.org/10.15298/arthsel.31.1.10)
 9. Jiménez, M.-L., **Chamé-Vázquez, D.** & Palacios-Cardiel. 2022. New records of spiders (Arachnida: Araneae) from the Madrean Archipelago of Sonora, Mexico. The Pan-Pacific Entomologist 98(3): 196–204. [DOI](https://doi.org/10.3956/2022-98.3.196)
 10.	Jiménez, M.-L, Palacios-Cardiel, C. & **D. Chamé-Vázquez**. In press. The spider genus *Diguetia* Simon, 1895 (Araneae: Diguetidae) in North America: a new species, redescriptions, and comments on the distribution of the genus. Zootaxa.
+11.	Cubas-Rodriguez, A.M., Cupul-Magaña, F.G., Peraza, R.A. & **D. Chamé-Vázquez**. EN PRENSA. New locality record of the American Crocodile Crocodylus acutus (Cuvier, 1807) from Honduras (Crocodylia: Crocodylidae). Herpetology Notes.
+22.	Hernández-Carreta, A.I, Diego-García, E., Ibarra-Núñez, G., Montaño-Moreno, H., **Chamé-Vázquez, D.** & E. Zarza. EN PRENSA. Phylogeography of the genus Phonotimpus Gertsch & Davis, 1940 (Araneae: Phrurolithidae). PeerJ.
+
 
 #### Capítulos en libros publicados
 1. Lucio–Palacio, C.R. y **D. Chamé–Vázquez**. 2013. Opiliones: arañas que no son arañas. Pp. 197–205. In. Comisión Nacional para el Conocimiento y Uso de la Biodiversidad (CONABIO). La biodiversidad en Chiapas: Estudio de Estado. CONABIO/Gobierno de Chiapas, México.
