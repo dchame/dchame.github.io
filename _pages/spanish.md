@@ -24,7 +24,7 @@ En estos momentos estoy colaborando en la revisión taxonómica del género *Ple
 7.	**Chame-Vázquez, D.** & M.-L. Jiménez. 2022.  A new spider of the genus *Scotinella* Banks, 1911 (Araneae: Phrurolithidae) from Mexico and new combinations in Phrurolithidae. Zootaxa 5099 (2): 286–292. [DOI](https://www.doi.org/10.11646/zootaxa.5099.2.8)
 8.	**Chamé-Vazquez, D.**, Jiménez, M.-L & C. Palacios-Cardiel. 2022. Redescription of *Selenops minutus* F. O. Pickard-Cambridge (Araneae: Selenopidae). Arthropoda Selecta 31 (1): 90–94. [DOI](https://www.doi.org/10.15298/arthsel.31.1.10)
 9. Jiménez, M.-L., **Chamé-Vázquez, D.** & Palacios-Cardiel. 2022. New records of spiders (Arachnida: Araneae) from the Madrean Archipelago of Sonora, Mexico. The Pan-Pacific Entomologist 98(3): 196–204. [DOI](https://doi.org/10.3956/2022-98.3.196)
-10.	Jiménez, M.-L, Palacios-Cardiel, C. & **D. Chamé-Vázquez**. In press. The spider genus *Diguetia* Simon, 1895 (Araneae: Diguetidae) in North America: a new species, redescriptions, and comments on the distribution of the genus. Zootaxa.
+10.	Jiménez, M.-L, Palacios-Cardiel, C. & **D. Chamé-Vázquez**. 2022. The spider genus *Diguetia* Simon, 1895 (Araneae: Diguetidae) in North America: a new species, redescriptions, and comments on the distribution of the genus. Zootaxa 5205 (2): 125–146. [DOI](https://doi.org/10.11646/zootaxa.5205.2.2)
 11.	Hernández-Carreta, A.I, Diego-García, E., Ibarra-Núñez, G., Montaño-Moreno, H., **Chamé-Vázquez, D.** & E. Zarza. EN PRENSA. Phylogeography of the genus *Phonotimpus* Gertsch & Davis, 1940 (Araneae: Phrurolithidae). PeerJ.
 
 
