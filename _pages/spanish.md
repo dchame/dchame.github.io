@@ -25,7 +25,8 @@ En estos momentos estoy colaborando en la revisión taxonómica del género *Ple
 8.	**Chamé-Vazquez, D.**, Jiménez, M.-L & C. Palacios-Cardiel. 2022. Redescription of *Selenops minutus* F. O. Pickard-Cambridge (Araneae: Selenopidae). Arthropoda Selecta 31 (1): 90–94. [DOI](https://www.doi.org/10.15298/arthsel.31.1.10)
 9. Jiménez, M.-L., **Chamé-Vázquez, D.** & Palacios-Cardiel. 2022. New records of spiders (Arachnida: Araneae) from the Madrean Archipelago of Sonora, Mexico. The Pan-Pacific Entomologist 98(3): 196–204. [DOI](https://doi.org/10.3956/2022-98.3.196)
 10.	Jiménez, M.-L, Palacios-Cardiel, C. & **D. Chamé-Vázquez**. 2022. The spider genus *Diguetia* Simon, 1895 (Araneae: Diguetidae) in North America: a new species, redescriptions, and comments on the distribution of the genus. Zootaxa 5205 (2): 125–146. [DOI](https://doi.org/10.11646/zootaxa.5205.2.2)
-11.	Hernández-Carreta, A.I, Diego-García, E., Ibarra-Núñez, G., Montaño-Moreno, H., **Chamé-Vázquez, D.** & E. Zarza. EN PRENSA. Phylogeography of the genus *Phonotimpus* Gertsch & Davis, 1940 (Araneae: Phrurolithidae). PeerJ.
+11.	Platnick, N.I., **Chamé-Vázquez, D.** & G. Ibarra-Núñez. 2022. The guardstone spiders of the genus Phonotimpus Gertsch & Davis (Araneae: Phrurolithidae) from northeastern Mexico. Zootaxa 5219 (1): 1–48. [DOI](https://doi.org/10.11646/zootaxa.5219.1.1)
+12.	Hernández-Carreta, A.I, Diego-García, E., Ibarra-Núñez, G., Montaño-Moreno, H., **Chamé-Vázquez, D.** & E. Zarza. EN PRENSA. Phylogeography of the genus *Phonotimpus* Gertsch & Davis, 1940 (Araneae: Phrurolithidae). PeerJ.
 
 
 #### Capítulos en libros publicados
