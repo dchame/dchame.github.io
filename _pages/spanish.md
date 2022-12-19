@@ -32,7 +32,8 @@ En estos momentos estoy colaborando en la revisión taxonómica del género *Ple
 #### Capítulos en libros publicados
 1. Lucio–Palacio, C.R. y **D. Chamé–Vázquez**. 2013. Opiliones: arañas que no son arañas. Pp. 197–205. In. Comisión Nacional para el Conocimiento y Uso de la Biodiversidad (CONABIO). La biodiversidad en Chiapas: Estudio de Estado. CONABIO/Gobierno de Chiapas, México.
 2.	Jiménez, M.-L, **Chamé-Vázquez, D.** & Palacios-Cardiel, C. In press. Mexican Spiders: Current Knowledge and Perspectives. En: Álvarez, F., Jones, R.W. & Ornelas-García, P. (eds). Mexican Fauna in the Anthropocene. Springer.
-3.	
+
+
 #### Notas científicas
 1.	**Chamé–Vázquez, D.** & G. Ibarra–Núñez. 2004. Primeros registros de *Allocyclosa bifurca* (McCook) y *Ocrepeira redempta* (Gertsch & Mulaik) (Araneae: Araneidae) para Chiapas, México. Dugesiana. 11(2): 23–24.
 2.	**Chamé–Vázquez, D.** & S. Moreno–Mendoza. 2006. Anomalía ocular en *Argiope trifasciata* (Forskål, 1775) (Araneae: Araneidae). Dugesiana 13(1): 23–24.
