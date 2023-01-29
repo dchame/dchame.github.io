@@ -45,5 +45,5 @@ En estos momentos estoy colaborando en la revisión taxonómica del género *Ple
 8.	Gómez-Moreno K.G., **Chamé-Vázquez, D.** & M.-L. Jiménez. 2021. Primer registro de la araña escupidora *Scytodes lugubris* (Araneae: Scytodidae) para Sonora, México. Revista Ibérica de Aracnología 39: 131–132.
 9.	Cupul-Magaña, F.G., **Chamé-Vázquez, D.** & F. Mc. Cann. 2021. Recolecta de seda de la telaraña de *Mallos* sp. por el Colibrí Pico Ancho (*Cynanthus latirostris*). Zeledonia 25 (2): 22–25.
 10.	Cubas, A., Lara-Cabello, V.C., Desales-Lara, M.A. & **D. Chamé-Vázquez**. 2021. Elusive introduced and synanthropic spiders (Araneae: Cithaeronidae, Gnaphosidae): new records from Mexico, Honduras, and Brazil. Pan-Pacific Entomologist 97(4): 261–265. [DOI](https://www.doi.org/10.3956/2021-97.4.261)
-11.	Cubas-Rodriguez, A.M., Cupul-Magaña, F.G., Peraza, R.A. & **D. Chamé-Vázquez**. EN PRENSA. New locality record of the American Crocodile *Crocodylus acutus* (Cuvier, 1807) from Honduras (Crocodylia: Crocodylidae). Herpetology Notes.
+11.	Cubas-Rodriguez, A.M., Cupul-Magaña, F.G., Peraza, R.A. & **D. Chamé-Vázquez**. 2023. New locality record of the American Crocodile *Crocodylus acutus* (Cuvier, 1807) from Honduras (Crocodylia: Crocodylidae). Herpetology Notes 16: 55–57.
 
