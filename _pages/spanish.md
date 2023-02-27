@@ -26,12 +26,13 @@ En estos momentos estoy colaborando en la revisión taxonómica del género *Ple
 9. Jiménez, M.-L., **Chamé-Vázquez, D.** & Palacios-Cardiel. 2022. New records of spiders (Arachnida: Araneae) from the Madrean Archipelago of Sonora, Mexico. The Pan-Pacific Entomologist 98(3): 196–204. [DOI](https://doi.org/10.3956/2022-98.3.196)
 10.	Jiménez, M.-L, Palacios-Cardiel, C. & **D. Chamé-Vázquez**. 2022. The spider genus *Diguetia* Simon, 1895 (Araneae: Diguetidae) in North America: a new species, redescriptions, and comments on the distribution of the genus. Zootaxa 5205 (2): 125–146. [DOI](https://doi.org/10.11646/zootaxa.5205.2.2)
 11.	Platnick, N.I., **Chamé-Vázquez, D.** & G. Ibarra-Núñez. 2022. The guardstone spiders of the genus Phonotimpus Gertsch & Davis (Araneae: Phrurolithidae) from northeastern Mexico. Zootaxa 5219 (1): 1–48. [DOI](https://doi.org/10.11646/zootaxa.5219.1.1)
-12.	Hernández-Carreta, A.I, Diego-García, E., Ibarra-Núñez, G., Montaño-Moreno, H., **Chamé-Vázquez, D.** & E. Zarza. EN PRENSA. Phylogeography of the genus *Phonotimpus* Gertsch & Davis, 1940 (Araneae: Phrurolithidae). PeerJ.
+12.	**Chamé-Vázquez, D.** & Villarreal, O. 2023. First record of *Tidarren cuneolatum* (Tullgren, 1910) from the New World (Araneae, Theridiidae). Spixiana 45 (2): 231–234.
+13.	Hernández-Carreta, A.I, Diego-García, E., Ibarra-Núñez, G., Montaño-Moreno, H., **Chamé-Vázquez, D.** & E. Zarza. EN PRENSA. Phylogeography of the genus *Phonotimpus* Gertsch & Davis, 1940 (Araneae: Phrurolithidae). PeerJ.
 
 
 #### Capítulos en libros publicados
 1. Lucio–Palacio, C.R. y **D. Chamé–Vázquez**. 2013. Opiliones: arañas que no son arañas. Pp. 197–205. In. Comisión Nacional para el Conocimiento y Uso de la Biodiversidad (CONABIO). La biodiversidad en Chiapas: Estudio de Estado. CONABIO/Gobierno de Chiapas, México.
-2.	Jiménez, M.-L, **Chamé-Vázquez, D.** & Palacios-Cardiel, C. In press. Mexican Spiders: Current Knowledge and Perspectives. En: Álvarez, F., Jones, R.W. & Ornelas-García, P. (eds). Mexican Fauna in the Anthropocene. Springer.
+2.	Ponce-Saavedra, J., Jiménez, M.-L., Quijano-Ravell, A.F., Vargas-Sandoval, M., & **Chamé-Vázquez, D.**, Palacios-Cardiel, C. & Maldonado-Carrizales, J. 2023. The Fauna of Arachnids in the Anthropocene of Mexico. Pp. 17–46. En: Jones, R.W., Ornelas-García, C.P., Pineda-López, R., Álvarez, F. (eds). Mexican Fauna in the Anthropocene. Springer, Cham. [DOI](https://doi.org/10.1007/978-3-031-17277-9_2)
 
 
 #### Notas científicas
