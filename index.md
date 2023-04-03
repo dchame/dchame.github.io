@@ -27,7 +27,8 @@ I am interested in spider systematics, biology and ecology. Currently, I'm colla
 10.	Jiménez, M.-L, Palacios-Cardiel, C. & **D. Chamé-Vázquez**. 2022. The spider genus *Diguetia* Simon, 1895 (Araneae: Diguetidae) in North America: a new species, redescriptions, and comments on the distribution of the genus. Zootaxa 5205 (2): 125–146. [DOI](https://doi.org/10.11646/zootaxa.5205.2.2)
 11.	Platnick, N.I., **Chamé-Vázquez, D.** & G. Ibarra-Núñez. 2022. The guardstone spiders of the genus Phonotimpus Gertsch & Davis (Araneae: Phrurolithidae) from northeastern Mexico. Zootaxa 5219 (1): 1–48. [DOI](https://doi.org/10.11646/zootaxa.5219.1.1)
 12.	**Chamé-Vázquez, D.** & Villarreal, O. 2023. First record of *Tidarren cuneolatum* (Tullgren, 1910) from the New World (Araneae, Theridiidae). Spixiana 45 (2): 231–234.
-13.	Hernández-Carreta, A.I, Diego-García, E., Ibarra-Núñez, G., Montaño-Moreno, H., **Chamé-Vázquez, D.** & E. Zarza. In press. Phylogeography of the genus *Phonotimpus* Gertsch & Davis, 1940 (Araneae: Phrurolithidae). PeerJ.
+13.	Gómez-Moreno, K., Jiménez, M.-L. & **D. Chamé-Vázquez**. 2023. Contribución al conocimiento de la diversidad de arañas (Arachnida: Araneae) en Sonora, Noroeste de México. Acta Zoológica Mexicana 39, e3912583: 1–16. [DOI](https://doi.org/10.21829/azm.2023.3912583)
+14.	Villarreal, O. & **D. Chamé-Vázquez**. 2023. First record of the false violin spider of the family Drymusidae (Araneae, Synspermiata, Scytodoidea) from Venezuela, with the description of a new species. Zoosystematics and Evolution 99(1): 273–280. [DOI](https://doi.org/10.3897/zse.99.99227)
 
 
 #### Book chapter
