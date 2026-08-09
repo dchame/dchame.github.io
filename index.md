@@ -29,6 +29,9 @@ I am interested in spider systematics, biology and ecology. Currently, I'm colla
 12.	**Chamé-Vázquez, D.** & Villarreal, O. 2023. First record of *Tidarren cuneolatum* (Tullgren, 1910) from the New World (Araneae, Theridiidae). Spixiana 45 (2): 231–234.
 13.	Gómez-Moreno, K., Jiménez, M.-L. & **D. Chamé-Vázquez**. 2023. Contribución al conocimiento de la diversidad de arañas (Arachnida: Araneae) en Sonora, Noroeste de México. Acta Zoológica Mexicana 39, e3912583: 1–16. [DOI](https://doi.org/10.21829/azm.2023.3912583)
 14.	Villarreal, O. & **D. Chamé-Vázquez**. 2023. First record of the false violin spider of the family Drymusidae (Araneae, Synspermiata, Scytodoidea) from Venezuela, with the description of a new species. Zoosystematics and Evolution 99(1): 273–280. [DOI](https://doi.org/10.3897/zse.99.99227)
+15.	**Chamé-Vázquez, D.** & M.-L. Jiménez. 2023. A new spider of the Plectreurys castanea species group (Araneae: Plectreuridae) from California, USA. Arachnology 19(5): 805–808.
+16.	**Chamé-Vázquez, D.**, Guzmán-García, C.E. & J. Maldonado-Carrizales. 2023. Two new species of Scotinella Banks, 1911 (Araneae: Phrurolithidae) from Mexico, with a discussion on the female genitalic morphology and intraspecific variation. Zootaxa 5351(4): 453–466. [DOI](https://doi.org/10.11646/zootaxa.5351.4.3)
+17.	Valdez-Mondragón, A. & **D. Chamé-Vázquez**. 2023. A new species of the spider genus Ochyrocera Simon (Araneae, Ochyroceratidae) from Mexico, with biogeographical comments and an updated identification key for Mexican species. Zootaxa 5374(4): 552–562. [DOI](https://doi.org/10.11646/zootaxa.5374.4.6)
 
 
 #### Book chapter
